@@ -20,7 +20,7 @@
             "body": "Tutti i dati vengono sincronizzati con il back-end sudo che è diverso dal back-end della community ed è ospitato in modo indipendente da me, chiunque è libero di utilizzare anche questo."
         },
         "q5": {
-            "body": "be', sudo-flix ha un account Twitter che può essere trovato nel fondo della pagina insieme ad un link al codice sorgente su Github.",
+            "body": "Be', sudo-flix ha un account Twitter che può essere trovato nel fondo della pagina insieme ad un link al codice sorgente su Github.",
             "title": "Come posso sapere di più?"
         }
     },
@@ -404,9 +404,9 @@
         },
         "nextEpisode": {
             "cancel": "Cancella",
-            "next": "Prossimo episodio",
+            "next": "Prossimo",
             "replay": "Riguarda",
-            "nextSeason": "Prossima stagione"
+            "nextSeason": "Prossimo"
         },
         "playbackError": {
             "badge": "Errore di riproduzione",
