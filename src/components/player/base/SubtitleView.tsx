@@ -60,6 +60,7 @@ export function CaptionCue({
             ? `blur(${Math.floor(styling.backgroundBlur * 64)}px)`
             : "none",
         fontWeight: styling.bold ? "bold" : "normal",
+        borderRadius: styling.borderRadius.toFixed(2),
       }}
     >
       <span
