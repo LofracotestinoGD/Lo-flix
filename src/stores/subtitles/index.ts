@@ -96,8 +96,7 @@ export const useSubtitleStore = create(
             s.styling.color = newStyling.color.toLowerCase();
           if (newStyling.size !== undefined)
             s.styling.size = Math.min(10, Math.max(0.01, newStyling.size));
-          if (newStyling.bold !== undefined)
-            s.styling.bold = newStyling.bold;
+          if (newStyling.bold !== undefined) s.styling.bold = newStyling.bold;
           if (newStyling.borderRadius !== undefined)
             s.styling.borderRadius = Math.min(1, Math.max(0, newStyling.borderRadius));
         });
